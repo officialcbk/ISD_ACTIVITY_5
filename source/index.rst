@@ -15,3 +15,14 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
+.. automodule:: league.league
+   :members:
+
+.. automodule:: player.player
+   :members:
+
+.. automodule:: sports_app.sports_app
+   :members:
+
+.. automodule:: team.team
+   :members:
